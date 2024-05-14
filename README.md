@@ -1,1 +1,1 @@
-# PersonalBrand.Server
+# PersonalBrand
